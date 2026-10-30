@@ -1,0 +1,15 @@
+{
+    "manim-sideview.defaultManimPath": "/home/juanmipaez/.local/bin/manim",
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+    "workbench.colorTheme": "Tokyo Night Gogh",
+    "github.copilot.nextEditSuggestions.enabled": false,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "claudeCode.preferredLocation": "panel",
+    "claudeCode.hideOnboarding": true
+}
