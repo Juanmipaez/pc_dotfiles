@@ -159,7 +159,7 @@ binds {
     // ─── Screenshots ───
     CTRL+Shift+1        { spawn-sh "noctalia msg screenshot-region"; }
     CTRL+Shift+2        { spawn-sh "noctalia msg screenshot-screen"; }
-    CTRL+Shift+4        { spawn-sh "noctalia msg screenshot-window"; }
+    CTRL+Shift+3        { spawn-sh "noctalia msg screenshot-window"; }
 
     // ─── Emergency Escape Key ───
     // Use this when a fullscreen app blocks your keybinds.
