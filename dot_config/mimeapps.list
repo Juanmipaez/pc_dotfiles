@@ -1,5 +1,9 @@
 [Added Associations]
 text/css=com.microsoft.VSCode.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-G7JUY3.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-G7JUY3.desktop;
+message/rfc822=userapp-Thunderbird-G7JUY3.desktop;
+x-scheme-handler/net.thunderbird=userapp-Thunderbird-2W6MY3.desktop;
 
 [Default Applications]
 inode/directory=org.kde.dolphin.desktop;
@@ -11,3 +15,7 @@ application/pdf=stirling-pdf.desktop
 x-scheme-handler/claude=com.anthropic.Claude.desktop
 x-scheme-handler/claude-cli=claude-code-url-handler.desktop
 text/css=com.microsoft.VSCode.desktop
+x-scheme-handler/mailto=userapp-Thunderbird-G7JUY3.desktop
+x-scheme-handler/mid=userapp-Thunderbird-G7JUY3.desktop
+message/rfc822=userapp-Thunderbird-G7JUY3.desktop
+x-scheme-handler/net.thunderbird=userapp-Thunderbird-2W6MY3.desktop
