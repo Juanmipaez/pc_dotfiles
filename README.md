@@ -15,6 +15,7 @@ My Linux desktop configuration, managed with [chezmoi](https://www.chezmoi.io/).
 | VS Code | `User/settings.json` |
 | Default apps | `~/.config/mimeapps.list` |
 | git | `~/.gitconfig` |
+| Electron apps | `~/.config/electron-flags.conf` (Wayland flags) |
 
 Not tracked on purpose: SSH keys, `gh` tokens, browser/Thunderbird profiles, `fish_variables`, caches, and files that apps generate.
 
