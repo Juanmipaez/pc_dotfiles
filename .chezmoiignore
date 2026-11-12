@@ -1,0 +1,9 @@
+# fish: plugin files are installed by fisher from fish_plugins
+.config/fish/functions/nvm.fish
+.config/fish/functions/_nvm_*.fish
+.config/fish/conf.d/nvm.fish
+.config/fish/completions/nvm.fish
+
+# fish: machine-local state, never track
+.config/fish/fish_variables
+
