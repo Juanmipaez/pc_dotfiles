@@ -7,3 +7,5 @@
 # fish: machine-local state, never track
 .config/fish/fish_variables
 
+#repo docs, not dotfiles
+README.md
