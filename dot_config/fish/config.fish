@@ -1,10 +1,8 @@
 source /usr/share/cachyos-fish-config/cachyos-config.fish
 
+# Editor (used by chezmoi edit, git, sudo -e, funced…)
+set -gx EDITOR nvim
+set -gx VISUAL nvim
 
-# overwrite greeting
-# potentially disabling fastfetch
-#function fish_greeting
-#    # smth smth
-set -gx PATH /opt/cuda/bin $PATH
-set -gx LD_LIBRARY_PATH /opt/cuda/lib64 $LD_LIBRARY_PATH
-#end
+# CUDA
+fish_add_path -g /opt/cuda/bin
