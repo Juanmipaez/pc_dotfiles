@@ -1,6 +1,6 @@
 [user]
 	name = Juanmipaez
-	email = juanmipaez@hotmail.com
+	email = 85180095+Juanmipaez@users.noreply.github.com
 [credential "https://github.com"]
 	helper = 
 	helper = !/usr/bin/gh auth git-credential
